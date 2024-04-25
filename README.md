@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm GaoAh.
+## 👋 Hey there! I'm Lotte.
 
 ![profile views](https://komarev.com/ghpvc/?username=zsga&style=for-the-badge)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/zsga/zsga/waka-readme.yml?style=for-the-badge)
